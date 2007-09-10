@@ -56,7 +56,7 @@
   
   LocusLink:\url{ftp://ftp.ncbi.nih.gov/refseq/LocusLink/LL_tmpl.gz}. Built: February 16, 2005
 
-  Gene Ontology:\url{http://www.godatabase.org/dev/database/archive/daily/go_daily-termdb.rdf-xml.gz}. Built: http://www.godatabase.org/dev/database/archive/daily/go_daily-termdb.rdf-xml.gz
+  Gene Ontology: \url{http://www.godatabase.org/dev/database/archive/daily/go_daily-termdb.rdf-xml.gz}. Built: \url{http://www.godatabase.org/dev/database/archive/daily/go_daily-termdb.rdf-xml.gz}
   
   Package built Wed Feb 16 23:32:20 2005
 }

@@ -1,12 +1,12 @@
 Package: hgu2beta7 
 Title: A data package containing annotation data for hgu2beta7 
-Version: 1.2.0
+Version: 1.2.1
 Created: Wed Feb 16 23:32:20 2005 
-Author: Lin, Chenwei 
+Author: Chenwei Lin
 Description: Annotation data file for hgu2beta7 assembled using data
    from public data repositories 
-Maintainer: Ting-Yuan Liu <tliu@fhcrc.org>
+Maintainer: Biocore Team c/o BioC user list <bioconductor@stat.math.ethz.ch>
 LazyData: yes 
-Depends: R(>= 2.0.0) 
-License: LGPL
+Depends: R (>= 2.0.0) 
+License: Artistic-2.0
 biocViews: AnnotationData
