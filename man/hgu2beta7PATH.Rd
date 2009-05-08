@@ -14,20 +14,22 @@
   \url{http://www.bioconductor.org}.
 
   Graphic presentations of pathways are searchable at
-  url{http://www.genome.ad.jp/kegg/pathway.html} by using pathway ids as
+  \url{http://www.genome.ad.jp/kegg/pathway.html} by using pathway ids as
   keys.   
 
   Mappings were based on data provided by:
 
-  KEGG:\url{ftp://ftp.genome.ad.jp/pub/kegg/pathways}. Built: Release 33.0 (January 2005)
+  KEGG:\url{ftp://ftp.genome.ad.jp/pub/kegg/pathways}. Built: Release 33.0
+  (January 2005) 
 
-  LocusLink:\url{ftp://ftp.ncbi.nih.gov/refseq/LocusLink/LL_tmpl.gz}. Built: February 16, 2005
-
-  Package built Wed Feb 16 23:32:20 2005
+  LocusLink:\url{ftp://ftp.ncbi.nih.gov/refseq/LocusLink/LL_tmpl.gz}. Built:
+  February 16, 2005 
 }
+
 \references{
   \url{http://www.genome.ad.jp/kegg/}
 }
+
 \examples{
     # Convert the environment to a list
     xx <- as.list(hgu2beta7PATH)
