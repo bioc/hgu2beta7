@@ -1,6 +1,6 @@
 Package: hgu2beta7 
 Title: A data package containing annotation data for hgu2beta7 
-Version: 1.7.0
+Version: 1.7.1
 Created: Wed Feb 16 23:32:20 2005 
 Author: Chenwei Lin
 Description: Annotation data file for hgu2beta7 assembled using data
@@ -9,4 +9,4 @@ Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
 LazyData: yes 
 Depends: R (>= 2.0.0) 
 License: Artistic-2.0
-biocViews: AnnotationData
+biocViews: Genome
